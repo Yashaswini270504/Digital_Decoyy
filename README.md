@@ -23,12 +23,12 @@ I built a system that goes deeper with 4 original techniques:
 analyzer = PatentableURLAnalyzer()
 result = analyzer.analyze_url("https://suspect-bank-verify.ru/?code=x1")
 
-# Returns:
-# ✅ Threat score:     78% ± 12%
-# ✅ Lifecycle stage:  Emerging
-# ✅ Mutation risk:    High (82%)
-# ✅ Campaign match:   3 related URLs detected
-# ✅ Top factors:      Suspicious TLD, encoded params, domain squatting
+Returns:
+ ✅ Threat score:     78% ± 12%
+ ✅ Lifecycle stage:  Emerging
+ ✅ Mutation risk:    High (82%)
+ ✅ Campaign match:   3 related URLs detected
+ ✅ Top factors:      Suspicious TLD, encoded params, domain squatting
 
 🚀 Run It Yourself:
 pip install -r requirements.txt
