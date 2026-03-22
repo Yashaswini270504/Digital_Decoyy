@@ -13,14 +13,13 @@ But real-world threats aren't binary — they're coordinated, evolving, and unce
 💡 My Solution
 I built a system that goes deeper with 4 original techniques:
 
-|     | Technique           | What it does                                          |
+|    | Technique           | What it does                                          |
 | 1️⃣ | Confidence Scoring  | Returns `78% ± 12%` — not just a yes/no                |
 | 2️⃣ | Campaign Clustering | Groups attack variants that share the same origin      |
 | 3️⃣ | Lifecycle Modeling  | Labels threats as Emerging → Established → Declining   |
 | 4️⃣ | Adaptive Learning   | Gets smarter from user feedback — no retraining needed |
 
 ⚡ See It In Action:
-```python
 analyzer = PatentableURLAnalyzer()
 result = analyzer.analyze_url("https://suspect-bank-verify.ru/?code=x1")
 
