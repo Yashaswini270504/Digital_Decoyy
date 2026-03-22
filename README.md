@@ -1,4 +1,9 @@
-<img width="800" height="334" alt="image" src="https://github.com/user-attachments/assets/88e23e80-df47-48ca-8c58-059a7efe3412" />🛡️ Adaptive Threat Detection System
+<img width="800" height="334" alt="image" src="https://github.com/user-attachments/assets/88e23e80-df47-48ca-8c58-059a7efe3412" />
+<img width="800" height="561" alt="image" src="https://github.com/user-attachments/assets/facd9350-f5f2-4b69-aa23-f66ff3cd4e31" />
+<img width="800" height="785" alt="image" src="https://github.com/user-attachments/assets/b5a7c821-30ac-4977-9c2d-c6e68d81fb5a" />
+<img width="800" height="795" alt="image" src="https://github.com/user-attachments/assets/7bc691e9-5e93-4d44-a852-988f349ac27c" />
+
+🛡️ Adaptive Threat Detection System
 AI-powered URL threat analysis that thinks beyond binary
 
 The Problem:
